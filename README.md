@@ -1,4 +1,6 @@
 # ARES v1.02
+### ARES is the Automated Rapid Email Sender; used for spamming and sending multiple emails to a directory of random emails using seperate name files
+
 *This content should be used for educational purposes only.*
 
 To launch the program you need to ensure you have a python IDE installed alongside the following modules:
